@@ -135,7 +135,7 @@ This project demonstrates that:
 
 ##  Author
 
-Harshit
+Sanagala Gagan
 
 ---
 
